@@ -1,0 +1,12 @@
+ #textPreview{
+   border: 1px solid lightgray;
+   height: auto;
+ }
+
+ .form-control::-webkit-input-placeholder {
+  color: #cdd9df
+}
+
+.accordion-button::after{
+  filter: invert(1);
+}
